@@ -6,6 +6,10 @@
 // 1.3 Create a variable `ProGrad-2` with the navigator's name.
 // 1.4 Print `"The navigator's name is YYYY"`.
 
+var Prograd_1 = prompt("Enter Driver's name")
+console.log("The driver's name is "+Prograd_1)
+var Prograd_2=prompt("Enter Navigator's name")
+console.log("The Navigator's name is "+Prograd_2)
 // Progression 2: Control Statements - 1
 // 2.1. Depending on which name is longer, print:
 // - The driver has the longest name, it has XX characters. or
